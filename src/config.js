@@ -8,7 +8,7 @@ module.exports = {
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
+  name: 'Edwin Gichuhi',
   location: 'Nairobi, Kenya',
   email: 'edwingichuhis@gmail.com',
   github: 'https://github.com/egichuhis',
