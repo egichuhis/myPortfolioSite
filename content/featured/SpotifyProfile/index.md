@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Portfolio Site'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/egichuhis/edwingichuhi.com'
+external: 'https://edwingichuhi.com/'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - Gatsby
+  - JavaScript
+  - Jekyll
+  - SCSS
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+This website you're viewing right now, forked and built from Brittany Chiang's portfolio website here.
