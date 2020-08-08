@@ -1,14 +1,15 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: 'POS System'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+github: 'https://github.com/egichuhis/pos-system'
+external: 'https://000webhost.egichuhis.com/'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - PHP
+  - JavaScript
+  - HTML
+  - MySQL
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+A nice Point-of-Sales System for managing and tracking inventory and purchases. Includes a nice dashboard and generates receipts and sales reports.
