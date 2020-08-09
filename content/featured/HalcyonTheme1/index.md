@@ -1,14 +1,13 @@
 ---
 date: '1'
-title: 'Bounce Game'
-cover: './halcyon.png'
-github: 'https://github.com/egichuhis/bounce_game'
+title: 'Stickman Game'
+cover: './halcyon1.png'
+github: 'https://github.com/egichuhis/stickman_game'
 external: ''
 tech:
   - VS Code
   - Python3
   - Tkinter
-
 showInProjects: true
 ---
 
