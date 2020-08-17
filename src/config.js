@@ -6,7 +6,7 @@ module.exports = {
     'Edwin Gichuhi, Edwin, Gichuhi, egichuhi, software engineer, front-end engineer, web developer, javascript, nairobi',
   siteUrl: 'https://edwingichuhi.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'UA-175568822-1',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Edwin Gichuhi',
   location: 'Nairobi, Kenya',
