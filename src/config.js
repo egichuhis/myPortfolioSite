@@ -7,7 +7,7 @@ module.exports = {
   siteUrl: 'https://edwingichuhi.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-175568822-1',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleVerification: 'Mn3T7hh3I_adTgNsrA-qA0HjzF9JTXfggIt-uJvarFQ',
   name: 'Edwin Gichuhi',
   location: 'Nairobi, Kenya',
   email: 'edwingichuhis@gmail.com',
