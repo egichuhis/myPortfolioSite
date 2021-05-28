@@ -1,8 +1,8 @@
 ---
 title: 'Programmer'
-company: 'Flag 42'
+company: 'Premar Systems'
 location: 'Nairobi, Kenya'
-url: 'https://www.flag42.com'
+url: 'https://premarsystems.com/'
 ---
 
 - Developed and maintained WordPress websites using PHP, HTML, CSS
