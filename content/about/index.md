@@ -2,17 +2,19 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript
-  - HTML & CSS
-  - Python
-  - Django
-  - Java
-  - PHP
-  - WordPress
+  - Programming Languages:- TypeScript, JavaScript, Python, Java, PHP
+  - Frameworks:- Ionic, React, Gatsby, Laravel, DJango, NextJS, Angular
+  - Database:- MySQL, PostgreSQL, Firebase
+  - Integrations:- Integrating Mpesa(DarajaAPI), Paypal,Visa/Mastercard
+  - Version Control Systems:- Git (BitBucket, Github, GitLab)
+  - Project Management:- Teams, Slack, Asana.
+  - Test tools and CI/CD tools:- Jenkins, Apache, Netlify, LAMP
+  - Arduino ADK board:- Programming the boards with C++
+  - Compliance and Processes:- Experienced in methodologies e.g Agile Scrum, Agile
+  - Object-oriented programming concepts, Software architectures and design patterns
+  - Microsoft Dynamics CRM:- Managing support calls and tracking issues
 ---
 
-I enjoy creating things that live on the internet, be it websites, applications, or anything in between. My goal is to always build products that are simply beautiful, safe and effective.
-
-Shortly after graduating from [Kabarak University](https://www.kabarak.ac.ke/), I joined the IT Advisory team at [KPMG EA.](https://home.kpmg/ke/en/home.html /) where I worked on a wide variety of interesting and meaningful projects on a daily basis.
+A gifted leader and innovative software engineer experienced in designing and building exceptional websites, applications and everything in between. My technical expertise coupled with my leadership experience and my natural abilities to work smoothly with other team members have proven highly valuable in every project I have been involved in.
 
 Here are a few technologies I've been working with recently:

@@ -16,8 +16,8 @@ const StyledFlexContainer = styled.div`
   ${media.tablet`display: block;`};
 `;
 const StyledContent = styled.div`
-  width: 60%;
-  max-width: 480px;
+  width: 100%;
+  max-width: 650px;
   ${media.tablet`width: 100%;`};
   a {
     ${mixins.inlineLink};
@@ -25,7 +25,7 @@ const StyledContent = styled.div`
 `;
 const SkillsContainer = styled.ul`
   display: grid;
-  grid-template-columns: repeat(2, minmax(140px, 200px));
+  grid-template-columns: repeat(1, minmax(300px));
   overflow: hidden;
   padding: 0;
   margin: 20px 0 0 0;
@@ -38,18 +38,19 @@ const Skill = styled.li`
   font-family: ${fonts.SFMono};
   font-size: ${fontSizes.smish};
   color: ${colors.slate};
+  line-height: 25px;
   &:before {
     content: '▹';
     position: absolute;
     left: 0;
     color: ${colors.green};
     font-size: ${fontSizes.sm};
-    line-height: 12px;
+    line-height: 25px;
   }
 `;
 const StyledPic = styled.div`
   position: relative;
-  width: 40%;
+  width: 20%;
   max-width: 300px;
   margin-left: 60px;
   ${media.tablet`margin: 60px auto 0;`};

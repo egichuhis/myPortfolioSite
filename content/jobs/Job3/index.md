@@ -7,6 +7,6 @@ range: '2017'
 url: 'https://home.kpmg/ke/en/home.html'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client ERP systems based on Odoo platform
+- Wrote modern, performant, maintainable code for the internal ERP systems based on Odoo platform, using Python language
 - System audit of various banking systems for some banks in Nairobi
 - Performing extensive data analytics on large data sets using caseware IDEA software

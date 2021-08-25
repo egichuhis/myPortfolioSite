@@ -1,5 +1,5 @@
 ---
-title: 'Service Desk Analyst'
+title: 'Innovations & Solutions Analyst'
 company: 'KenTrade'
 location: 'Nairobi, Kenya'
 url: 'https://www.kentrade.go.ke/'
