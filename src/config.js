@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Edwin Gichuhi is a software engineer based in Nairobi, Kenya who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Edwin Gichuhi, Edwin, Gichuhi, egichuhi, software engineer, front-end engineer, web developer, javascript, nairobi',
+    'Edwin Gichuhi, Edwin, Gichuhi, egichuhi, software engineer, fullstack engineer, web developer, javascript, nairobi, python',
   siteUrl: 'https://edwingichuhi.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-175568822-1',
