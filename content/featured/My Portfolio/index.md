@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Portfolio Site'
+title: 'This Portfolio Site'
 cover: './demo.png'
 github: 'https://github.com/egichuhis/edwingichuhi.com'
 external: 'https://edwingichuhi.com/'
